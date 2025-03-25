@@ -1,0 +1,14 @@
+{
+    "metadata": {
+        "origine": "Performance System",
+        "date_execution": "2025-02-24_22-55-20",
+        "dataset_utilisé": "data/input/test_data.json"
+    },
+    "résultats": {
+        "Simple Coverage": 1.0,
+        "Catalog Coverage": 1.0,
+        "Gini Index": -1.0,
+        "Long Tail Coverage": 1.0,
+        "Entropy": 3.906890595608518
+    }
+}

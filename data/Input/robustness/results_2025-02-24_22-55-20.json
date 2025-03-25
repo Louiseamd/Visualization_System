@@ -1,0 +1,11 @@
+{
+    "metadata": {
+        "origine": "Performance System",
+        "date_execution": "2025-02-24_22-55-20",
+        "dataset_utilisé": "data/input/test_data.json"
+    },
+    "résultats": {
+        "Robustness": 0.816496580927726,
+        "Stability": 2.449489742783178
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "metadata": {
+        "origine": "Performance System",
+        "date_execution": "2025-02-24_22-55-20",
+        "dataset_utilisé": "data/input/test_data.json"
+    },
+    "résultats": {
+        "Novelty": 1.0,
+        "Serendipity": 0.3333333333333333
+    }
+}

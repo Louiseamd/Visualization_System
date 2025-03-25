@@ -1,0 +1,15 @@
+{
+    "metadata": {
+        "origine": "Performance System",
+        "date_execution": "2025-02-24_22-55-20",
+        "dataset_utilisé": "data/input/test_data.json"
+    },
+    "résultats": {
+        "MAE": 1.3333333333333333,
+        "RMSE": 1.591644851508443,
+        "Precision-k": 0.0,
+        "Recall-k": 0.0,
+        "NDCG": 0.9038069753287139,
+        "Hit Rate": 0.2
+    }
+}
