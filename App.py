@@ -14,7 +14,7 @@ if uploaded_file:
         json_content = json.load(uploaded_file)
         if isinstance(json_content, dict):
             metadata = json_content.get("metadata", {})
-            results = json_content.get("résultats", {})
+            results = json_content.get("results", {})
             if results:
                 for cluster_id, cluster_results in results.items():
                     json_data[cluster_id] = cluster_results
